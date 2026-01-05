@@ -1,4 +1,4 @@
-# 2025 Workshop Proposal: Foundations of Computer Security
+# 2026 Workshop Proposal: Foundations of Computer Security
 
 ## Background, Aim, and Scope
 
@@ -37,6 +37,7 @@ include mentoring activities throughout the day to meet these needs.
 
 FCS has a long history dating back over 20 years, co-located with CSF for over 10:
 
+* FCS 2025 [https://fcs-workshop.github.io/fcs2025/]
 * FCS 2024 [https://fcs-workshop.github.io/fcs2024/]
 * FCS 2023 [https://squera.github.io/fcs23/]
 * FCS 2022 [https://jnear.github.io/fcs2022/]
@@ -61,7 +62,7 @@ FCS has a long history dating back over 20 years, co-located with CSF for over 1
 
 ## Organization
 
-* **Co-Chairs**: Marco Vassena (m.vassena@uu.nl), Anitha Gollamudi (Anitha_Gollamudi@uml.edu)
+* **Co-Chairs**: Anitha Gollamudi (anitha_gollamudi@uml.edu), TBD
 * **Affiliated Conference**: CSF 
 * **In-Person Participants**: 25–30 (historically)
 * **Format**: Paper presentations plus mentoring events
